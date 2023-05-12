@@ -1,5 +1,5 @@
 # osTicket
-This repo explains how to install and setup osTicket in a Virtual Windows Machine.
+This repo explains how to use osTicket in a Virtual Windows Machine.
 
 ![image](/add-roles-location.png)
 ![image](/create-help-topic.png)
